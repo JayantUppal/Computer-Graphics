@@ -19,6 +19,6 @@ A list of small OpenGL programs to demonstrate concepts of Computer Graphics. Op
 ### [Line-Drawing-Algorithms](/)
 
 - Line using equation of line Y=m*X+C
-- Line using DDA (Digital Differential Analyzer) algorithm
-- line using Bresenham’s Line Algorithm 
+- Line using DDA (Digital Differential Analyzer) Algorithm
+- Line using Bresenham’s Line Algorithm 
 
