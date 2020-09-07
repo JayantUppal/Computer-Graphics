@@ -4,7 +4,7 @@
 
 ## Description
 
-A list of small OpenGL programs to demonstrate concepts of Computer Graphics. OpenGL (Open Graphics Library) is the computer industry's standard API for defining 2-D and 3-D graphic images. 
+A list of OpenGL programs using programming language C to demonstrate concepts of Computer Graphics. OpenGL (Open Graphics Library) is the computer industry's standard API for defining 2-D and 3-D graphic images. 
 
 ---
 
@@ -39,4 +39,10 @@ gcc 'file-name.c' -o 'file-name' -lGL -lglut -lGLU
 - Line using equation of line Y=m*X+C
 - Line using DDA (Digital Differential Analyzer) Algorithm
 - Line using Bresenham’s Line Algorithm 
+
+### [Circle-and-Ellipse](/)
+
+- Circle using Polar Equations
+- Circle using Mid-Point Algorithm
+- Ellipse using Mid-Point Algorithm 
 
