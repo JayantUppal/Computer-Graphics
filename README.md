@@ -24,6 +24,7 @@ gcc 'file-name.c' -o 'file-name' -lGL -lglut -lGLU
 ./'file-name'
 
 ```
+---
 
 ## What's Included
 
