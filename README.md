@@ -20,8 +20,8 @@ $ sudo apt-get install freeglut3-dev
 ```
 For compilation and execution
 ```
-gcc 'file-name.c' -o 'file-name' -lGL -lglut -lGLU
-./'file-name'
+$ gcc 'file-name.c' -o 'file-name' -lGL -lglut -lGLU
+$ ./'file-name'
 
 ```
 ---
