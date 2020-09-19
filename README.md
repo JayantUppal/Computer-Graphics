@@ -1,12 +1,10 @@
 # Computer-Graphics
 
----
 
 ## Description
 
 A list of OpenGL programs using programming language C to demonstrate concepts of Computer Graphics. OpenGL (Open Graphics Library) is the computer industry's standard API for defining 2-D and 3-D graphic images. 
 
----
 
 ## Configuration in Linux
 
@@ -22,7 +20,6 @@ For compilation and execution
 $ gcc 'file-name.c' -o 'file-name' -lGL -lglut -lGLU
 $ ./'file-name'
 ```
----
 
 ## What's Included
 
@@ -32,7 +29,7 @@ $ ./'file-name'
 - Scenery using keyboard and mouse events
 - First program - Triangle 
 
-### [Line-Drawing-Algorithms](/)
+### [Line-Drawing-Algorithms](/Line-Drawing-Algorithms)
 
 - Line using equation of line Y=m*X+C
 - Line using DDA (Digital Differential Analyzer) Algorithm
