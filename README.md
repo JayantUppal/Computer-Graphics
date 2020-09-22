@@ -35,7 +35,7 @@ $ ./'file-name'
 - Line using DDA (Digital Differential Analyzer) Algorithm
 - Line using Bresenham’s Line Algorithm 
 
-### [Circle-and-Ellipse](/)
+### [Circle-and-Ellipse](/Circle-and-Ellipse)
 
 - Circle using Polar Equations
 - Circle using Mid-Point Algorithm
