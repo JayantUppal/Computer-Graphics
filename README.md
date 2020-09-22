@@ -41,3 +41,7 @@ $ ./'file-name'
 - Circle using Mid-Point Algorithm
 - Ellipse using Mid-Point Algorithm 
 
+### [Clipping-Algorithms](/Clipping-Algorithms)
+
+- Cohen Sutherland Line-Clipping algorithm
+- Sutherland Hodgeman Polygon-Clipping algorithm
