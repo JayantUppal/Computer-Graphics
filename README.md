@@ -45,3 +45,8 @@ $ ./'file-name'
 
 - Cohen Sutherland Line-Clipping algorithm
 - Sutherland Hodgeman Polygon-Clipping algorithm
+
+### [Area-Filling-Algorithms](/Area-Filling-Algorithms)
+
+- Boundary Fill Algorithm
+- Flood Fill Algorithm
