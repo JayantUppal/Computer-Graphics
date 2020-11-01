@@ -51,7 +51,7 @@ $ ./'file-name'
 - Boundary Fill Algorithm
 - Flood Fill Algorithm
 
-### [2D Transformations](/2D Transformations)
+### [2D Transformations](/2D%20Transformations)
 
 - Translation
 - Rotation (with respect to arbitrary point also)
