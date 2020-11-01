@@ -50,3 +50,12 @@ $ ./'file-name'
 
 - Boundary Fill Algorithm
 - Flood Fill Algorithm
+
+### [2D Transformations](/2D Transformations)
+
+- Translation
+- Rotation (with respect to arbitrary point also)
+- Scaling (with respect to arbitrary point also)
+- Reflection about x-axis, y-axis, y=x, y=-x and origin
+- Reflection about a line Y=mX+c 
+- Shearing about x-axis and y-axis
