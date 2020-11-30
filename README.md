@@ -67,3 +67,10 @@ $ ./'file-name'
 - Scaling 
 - Reflection about XY, YZ and ZX plane
 - Shearing about X, Y and Z axis
+
+### [3D Shapes](/3D%20Shapes)
+
+- Cube
+- Sphere
+- Cone
+- Teapot
