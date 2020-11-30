@@ -59,3 +59,11 @@ $ ./'file-name'
 - Reflection about x-axis, y-axis, y=x, y=-x and origin
 - Reflection about a line Y=mX+c 
 - Shearing about x-axis and y-axis
+
+### [3D Transformations](/3D%20Transformations)
+
+- Translation
+- Rotation about X, Y and Z axis
+- Scaling 
+- Reflection about XY, YZ and ZX plane
+- Shearing about X, Y and Z axis
